@@ -39,12 +39,20 @@ const EntertainmentandperformanceAddiction = () => {
                   Addiction
                 </h3>
               </div>
-              <img
+              {/* <img
                 src={Enterright}
                 data-aos="fade-right"
                 data-aos-duration="1000"
                 alt=""
-              />
+              /> */}
+              <iframe
+              className="adaptationToMobile-yt-video"
+              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
             </div>
             <div className="btn-compo">
               <button>Get Support</button>
