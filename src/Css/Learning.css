@@ -33,5 +33,15 @@ height: 150px;
 margin-left: -10%;
 background-color: red;
 }
+
+.sample-yt-video {
+  /* margin-top: 10%; */
+  border-radius: 30px;
+  width: 150px;
+  height: 100px;
+  margin-left: -10%;
+  background-color: red;
+  }
+
 }
 
