@@ -76,7 +76,7 @@ const EarlyAgeGadgetExposure = () => {
             </div>
             <iframe
               className="MobileAddiction-yt-video"
-              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              src="https://www.youtube.com/embed/EhtGMxfwz10?si=Hg8cJGmLY574GBDX"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

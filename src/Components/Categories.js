@@ -49,7 +49,15 @@ const Categories = () => {
       <div className="categories-main">
         <div className="cate-yellow-box">
           <div className="Hoodi">
-            <img src={Static} alt="" />
+            {/* <img src={Static} alt="" /> */}
+            <iframe
+              className="MobileAddiction-yt-video"
+              src="https://www.youtube.com/embed/rcxd7w9PryE?si=ZJUIHyOtmVaxFrHK"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
           </div>
         </div>
         <div className="cate-left-box">

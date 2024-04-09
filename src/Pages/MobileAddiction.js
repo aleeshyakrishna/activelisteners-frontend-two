@@ -51,8 +51,8 @@ const MobileAddiction = () => {
               alt=""
             /> */}
 <iframe
-              className="adaptationToMobile-yt-video"
-              src="https://www.youtube.com/embed/cZRagM1J8KI?si=3LZEf7lm-Lq0uQ5O"
+              className="adpatation-to-mobile-yt-video"
+              src="https://www.youtube.com/embed/MSzppjFe1iM?si=-Bm6Z01t75zFvvZz"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

@@ -47,7 +47,7 @@ const EntertainmentandperformanceAddiction = () => {
               /> */}
               <iframe
               className="adaptationToMobile-yt-video"
-              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              src="https://www.youtube.com/embed/LMx12REELLw?si=ovsHeivFhskYl2AC"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -89,7 +89,7 @@ const EntertainmentandperformanceAddiction = () => {
                 /> */}
                 <iframe
               className="adaptationToMobile-yt-video"
-              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              src="https://www.youtube.com/embed/iwNAe9K2NAc?si=0HUgNusCBHGP40Kn"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
