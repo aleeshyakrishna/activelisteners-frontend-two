@@ -85,7 +85,7 @@ const LearningandFocus = () => {
                 {/* <img src={earlyAgeBoxImg} alt="" /> */}
                 <iframe
               className="LearningAndFocus-yt-video"
-              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              src="https://www.youtube.com/embed/8owlcOwin9Q?si=axD-i1jMYPoKeU-S"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

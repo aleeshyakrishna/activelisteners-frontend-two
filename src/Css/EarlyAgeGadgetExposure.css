@@ -284,3 +284,36 @@
     border-radius: 0px 0px 16px 0px;
   }
 }
+
+
+
+.adaptationToMobile-yt-video{
+  margin-top: 1%;
+  border-radius: 30px;
+  width: 500px;
+  height: 300px;
+  margin-left: 1%;
+}
+
+@media (min-width: 600px) and (max-width: 1024px) {
+  .adaptationToMobile-yt-video {
+  /* margin-top: 10%; */
+  border-radius: 10px;
+  width: 60%;
+  height: 250px;
+  margin-left: -10%;
+}
+}
+
+@media screen and (max-width: 600px) {
+  .adaptationToMobile-yt-video {
+/* margin-top: 10%; */
+border-radius: 30px;
+width: 200px;
+height: 150px;
+margin-left: -10%;
+background-color: red;
+}
+}
+
+
