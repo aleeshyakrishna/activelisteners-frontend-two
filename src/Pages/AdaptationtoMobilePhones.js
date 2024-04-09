@@ -40,20 +40,20 @@ const AdaptationtoMobilePhones = () => {
                 Phones
               </h3>
             </div>
-            <img
+            {/* <img
               src={earlyAgeright2}
               data-aos="fade-right"
               data-aos-duration="1000"
               alt=""
-            />
-            {/* <iframe
+            /> */}
+            <iframe
               className="adpatation-to-mobile-yt-video"
-              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              src="https://www.youtube.com/embed/MSzppjFe1iM?si=-Bm6Z01t75zFvvZz"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
-            ></iframe> */}
+            ></iframe>
           </div>
           <div className="hdr-btm-text">
             {/* <p data-aos="zoom-in" data-aos-duration="1000">
@@ -89,7 +89,7 @@ const AdaptationtoMobilePhones = () => {
               {/* <img src={earlyAgeBoxImg} alt="" /> */}
               <iframe
               className="adaptationToMobile-yt-video"
-              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              src="https://www.youtube.com/embed/cZRagM1J8KI?si=3LZEf7lm-Lq0uQ5O"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

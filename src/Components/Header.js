@@ -60,12 +60,20 @@ const Header = () => {
               Balance & Focus
             </h3>
           </div>
-          <img
+          {/* <img
             src={Hdrright}
             data-aos="fade-right"
             data-aos-duration="1000"
             alt=""
-          />
+          /> */}
+           <iframe
+              className="adaptationToMobile-yt-video"
+              src="https://www.youtube.com/embed/xMAQJtqDrK0?si=LzDZLLuGqNJmTpHX"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
         </div>
         <div className="hdr-tx">
           <p data-aos="zoom-in" data-aos-duration="1000">
