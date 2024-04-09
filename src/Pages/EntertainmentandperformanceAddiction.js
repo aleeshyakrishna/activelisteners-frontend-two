@@ -72,13 +72,21 @@ const EntertainmentandperformanceAddiction = () => {
 
               <div className="inside-mobile-addiction-txt">
                 <h1>Are you Addicted to the Entertainment & Performance?</h1>
-                <img
+                {/* <img
                   src={MoAddiction}
                   style={{
                     width: "60%",
                   }}
                   alt=""
-                />
+                /> */}
+                <iframe
+              className="adaptationToMobile-yt-video"
+              src="https://www.youtube.com/embed/-UvzOWw3Xsw"
+              title="YouTube video player"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
               </div>
               <img
                 src={Rounda}
